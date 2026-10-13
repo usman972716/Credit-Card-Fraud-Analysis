@@ -5,3 +5,4 @@ I used Excel for renaming columns name
 I used Power Bi (DAX,Data Modeling,Visualisation)
 Here is the link to download dataset
 https://www.kaggle.com/datasets/kartik2112/fraud-detection
+I used SQL
